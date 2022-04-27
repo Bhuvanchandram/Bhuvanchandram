@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bm296637@gmail.com**
 
-- ⚡ Fun fact **You can DM be any time for a chess match**
+- ⚡ Hey there **You can DM be any time for a chess match**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
