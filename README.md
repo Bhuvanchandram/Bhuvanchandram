@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvanchandra M</h1>
-<h3 align="center">I am currently into Blockchain and Web3. Apart from this Web development and Android Development are my area of ineterests.</h3>
+<h3 align="center">I am currently into Blockchain and Web3. Apart from this Web development and Android Development are my area of interests.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanchandram&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanchandram" /> </p>
 
