@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvanchandra M</h1>
-<h3 align="center">A passionate Android Developer, blogger and a Blockchain Aspirant. Currently working on Web Developement</h3>
+<h3 align="center">A passionate Web Developer, a technical blogger and a Web 3 Aspirant.</h3>
 
 - 📝 I regularly write articles on [bhuvan.hashnode.dev](bhuvan.hashnode.dev)
 
